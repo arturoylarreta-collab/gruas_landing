@@ -1,11 +1,6 @@
 @import "tailwindcss";
 
-/*
-==============================================================
-ESTILOS GLOBALES MÍNIMOS
-==============================================================
-*/
-
+/* ESTILOS GLOBALES MÍNIMOS */
 html {
     scroll-behavior: smooth;
 }
